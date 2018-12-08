@@ -413,6 +413,7 @@ template {
 .navbar{ 
     overflow: hidden; 
     background-color:lavenderblush;
+    margin-bottom: 1%; 
 
 }
 
@@ -439,6 +440,7 @@ template {
   }
 
 #History h2{ 
+    padding: 1%;
     text-align: center; 
     background-color: lavender;
     font-size: 2em; 
@@ -470,15 +472,7 @@ template {
     text-decoration: none;
 }
 
-/**footer{ 
-    background-color: lavender; 
-    font-size: 1.5em; 
-    text-align: center; 
-    width: 100%; 
-    height: auto; 
-    position: fixed; 
-    padding: 5%;
-}**/
+
 
 .footer{ 
     padding-top: 1.3%;
