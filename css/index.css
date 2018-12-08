@@ -449,6 +449,7 @@ template {
 #History p{ 
     text-align: center; 
     font-size: 1.75em; 
+	padding: 1%;
 }
 
 #readMoreButton{ 
