@@ -10,5 +10,5 @@ function autoSlideShow(){
     index++; 
     if(index > x.length){index = 1} 
     x[index-1].style.display = "block"; 
-    setTimeout(autoSlideShow, 2500); 
+    setTimeout(autoSlideShow, 2000); 
 }
