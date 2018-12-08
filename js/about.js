@@ -8,7 +8,7 @@ function autoSlideShow(){
         x[i].style.display = "none"; 
     }
     index++; 
-    if(index > x.length){index = 1} 
+    if(index > x.length){index = 0} 
     x[index-1].style.display = "block"; 
-    setTimeout(autoSlideShow, 2500); 
+    setTimeout(autoSlideShow, 3000); 
 }
